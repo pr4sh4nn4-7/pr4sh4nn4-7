@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Prashanna Ghimire<br><br>💻 Passionate about  Web application security ,Software Development and Problem Solving<br><br>🌱 Currently learning: Javascript | Express | Web Security Testing | Typescript | Postman<br><br>🔭 Currently working on:  Avyanta Tech Pvt. Ltd<br><br>⚡ Tech Stack: Python | JavaScript | React | Node | Golang | Typescript  |<br><br>📚 Interested in:  Web Development | Open Source <br><br>🚀 Goal: To build impactful and scalable software solutions<br><br>🤝 Open to: Collaboration, internships, and open-source projects<br><br>📫 Reach me at: dev.backend.prashanna09@gmail.com | https://www.linkedin.com/in/prashanna-ghimire-41078b2a2/
+👋 Hi, I'm Prashanna Ghimire<br><br>💻 Passionate about Software Development , Problem Solving and  Web application security <br><br>🌱 Currently learning: Javascript | Express | Web Security Testing | Typescript | Postman<br><br>🔭 Currently working on:  Avyanta Tech Pvt. Ltd<br><br>⚡ Tech Stack: Python | JavaScript | React | Node | Golang | Typescript  |<br><br>📚 Interested in:  Web Development | Open Source <br><br>🚀 Goal: To build impactful and scalable software solutions<br><br>🤝 Open to: Collaboration, internships, and open-source projects<br><br>📫 Reach me at: dev.backend.prashanna09@gmail.com | https://www.linkedin.com/in/prashanna-ghimire-41078b2a2/
 
 
 ## 🌐 Socials:
